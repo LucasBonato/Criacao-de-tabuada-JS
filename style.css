@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(77, 128, 224);
+    font: 15pt Arial;
+}
+
+main {
+    display: block;
+}
+
+header {
+    text-align: center;
+    color: white;
+}
+
+div#dados {
+    width: 450px;
+    height: 100px;
+}
+
+input#txtn {
+    width: 200px;
+    height: 20px;
+    border-radius: 10px;
+}
+
+input.botao {
+    background-color: rgb(77, 128, 224);
+    width: 150px;
+    height: 30px;
+    border: 0px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.557) 3px 3px 15px;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+section {
+    background-color: #ffffff;
+    width: 500px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.557) 5px 5px 10px;
+    padding: 15px;
+    margin: auto;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
+
+section#tabuada {
+    background-color: #ffffff;
+    width: 200px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.557) 5px 5px 10px;
+    padding: 15px;
+    margin: auto;
+    text-align: center;
+}
